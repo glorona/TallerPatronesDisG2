@@ -1,0 +1,11 @@
+Base\LegacySys.class
+Base\Main.class
+App\Pagable.class
+App\Voice.class
+App\AppWeb.class
+App\Consultable.class
+Base\Facade.class
+App\AppMovil.class
+Base\Cliente.class
+App\Application.class
+App\AppTelef.class
